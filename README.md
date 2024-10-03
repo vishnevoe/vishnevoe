@@ -8,7 +8,7 @@
 
 ---------------------------
 
-I'm junior date analyst.
+I'm junior data analyst.
 
 I'm looking for an opportunity to apply my analytical skills into practice. I know how to work in a team, I like to see the results of my work and improve the product I am working on.
 
