@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Julia.
 
 
 <!--
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm junior date analyst.
